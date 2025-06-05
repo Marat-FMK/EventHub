@@ -1,5 +1,9 @@
 # EventHub – приложение для поиска захватывающих событий и интересных мест / an app for searching exciting events and interesting places  
 
+<p align="center">
+  <img src="https://github.com/Marat-FMK/EventHub/blob/newDevelop/Event.png" alt="EventHub app" width="1000"/>
+</p>
+
 Привет, друзья! / Hello friends!
 
 В этом репозитории хранится приложение, которое позволяет выбрать концерт, выставку, спектакль, шоу, мастер-класс и многое другое из огромного количества мероприятий и мест / This repository contains a mobile app that allows you to select a concert, exhibition, performance, show, master class and much more from a huge number of events and places.
@@ -63,3 +67,7 @@
 * you can customize your profile: add a name, an avatar, a section about yourself
 
 https://github.com/user-attachments/assets/3b8b1087-5527-4e9f-b053-ccc8fbecbda5
+
+## 📂Clone the repository:
+   ```bash
+https://github.com/Marat-FMK/EventHub.git

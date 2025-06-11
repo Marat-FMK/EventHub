@@ -4,7 +4,7 @@
   <img src="https://github.com/Marat-FMK/EventHub/blob/newDevelop/Event.png" alt="EventHub app" width="1000"/>
 </p>
 
-Привет, друзья! / Hello friends!
+Привет, друзья!!! / Hello friends!!!
 
 В этом репозитории хранится приложение, которое позволяет выбрать концерт, выставку, спектакль, шоу, мастер-класс и многое другое из огромного количества мероприятий и мест / This repository contains a mobile app that allows you to select a concert, exhibition, performance, show, master class and much more from a huge number of events and places.
 
